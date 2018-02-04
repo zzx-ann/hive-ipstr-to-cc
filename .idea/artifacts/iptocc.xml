@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="iptocc">
+    <output-path>$PROJECT_DIR$/out/artifacts/iptocc</output-path>
+    <root id="archive" name="iptocc.jar">
+      <element id="module-output" name="ybhive" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.45/mysql-connector-java-5.1.45.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
